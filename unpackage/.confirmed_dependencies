@@ -1,0 +1,16 @@
+{
+	"index.html": {
+		"resources": [
+			"img/1_03.jpg",
+			"js/jquery-3.1.1.js",
+			"img/1_05.jpg",
+			"img/1_09.jpg",
+			"img/pot.jpg",
+			"img/sou_03.jpg",
+			"css/style.css",
+			"img/1_07.jpg",
+			"css/reset.css",
+			"img/question_03.jpg"
+		]
+	}
+}
